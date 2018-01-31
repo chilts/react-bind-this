@@ -1,0 +1,22 @@
+{
+  "name": "react-bind-this",
+  "version": "1.0.0",
+  "description": "A simple solution to `this.onEvent = this.onEvent.bind(this)`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "homepage": "https://github.com/chilts/react-bind-this",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/react-bind-this.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/react-bind-this/issues"
+  },
+  "author": "Andrew Chilton",
+  "keywords": [
+    "react"
+  ],
+  "license": "ISC"
+}
