@@ -11,9 +11,6 @@ this.onChange = this.onChange.bind(this)
 Use `react-bind-this` and you can do the following instead:
 
 ```js
-
-// ...etc...
-
 bindThis(this, 'handleClick', 'onToggle', 'onChange')
 ```
 
@@ -42,7 +39,7 @@ class MyComponent extends React.Component {
 
 ## Author ##
 
-Andrew Chilton
+Andrew Chilton.
 
 ## License ##
 
