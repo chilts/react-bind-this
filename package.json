@@ -1,6 +1,6 @@
 {
   "name": "react-bind-this",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple solution to `this.onEvent = this.onEvent.bind(this)`.",
   "main": "index.js",
   "scripts": {
